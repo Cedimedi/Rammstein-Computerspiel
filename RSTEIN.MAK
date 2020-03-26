@@ -1,0 +1,14 @@
+Module4.BAS
+main.txt
+Module1.BAS
+Module2.BAS
+Module3.BAS
+SCREEN1.FRM
+LOADING.FRM
+SCREEN2.FRM
+SCREEN3.FRM
+START.FRM
+GAMEOVER.FRM
+OUTRO.FRM
+Title="RSTEIN"
+ExeName="rstein.exe"

@@ -1,0 +1,31 @@
+' main.txt - global definitions
+Type T0534
+  M0543 As Integer
+  M054A As Integer
+  M0553 As Integer
+  M055E As Integer
+  M0568 As Integer
+  M0573 As Integer
+  M0581 As Integer
+  M058F As Integer
+  M059F As Integer
+  M05B2 As Integer
+  M05BE As Integer
+  M05C8 As Integer
+  M05DC As Integer
+  M05F1 As Integer
+  M05FA As Integer
+  M060B As Integer
+  M0617 As Integer
+  M0627 As Integer
+End Type
+
+Global gv00B2 As String * 256
+Global gv01B2 As Integer
+Global gv01BE As Long
+Global gv01C2 As Long
+Global gv01C6 As Long
+Global gv01CA As Long
+Global gv01CE As Integer
+Global gv01D0 As Integer
+Global gv01D2 As Integer
